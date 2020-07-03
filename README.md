@@ -1,8 +1,9 @@
 # LadViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/lad_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
+Various view specific methods for applications I use.
 
-TODO: Delete this and the text above, and describe your gem
+> This gem is created based on the tutorial from https://www.udemy.com/course/professional-rails-5-development-course/
+
 
 ## Installation
 
